@@ -1,0 +1,14 @@
+*{
+    background-color: blueviolet;
+}
+
+main div{
+    background-color: brown;
+    padding: 40px;
+    border-radius: 30px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
